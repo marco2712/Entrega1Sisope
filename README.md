@@ -1,4 +1,3 @@
 # Entrega1Sisope
-
-###Benjamin Ortiz Morales
-###Marco Antonio Riascos Salguero
+### Benjamin Ortiz Morales
+### Marco Antonio Riascos Salguero
